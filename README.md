@@ -1,17 +1,17 @@
 # lab-assignment-1
 Base project for lab assignment 1
 
-3) <head> :  The head element is a container for all the head elements.
-	<Title> : Is the title of the document.
-	<meta> : Is the information of de document. description( author, keyword, etc)
-	<body> : tag defines the document body.
-	<link> : it can be used for two things. the defines a link between a document and an external resource or tag is used to link to external style sheets
-	<center> : tag is used to center text
-	<table>: Create table can you edit.
-	<tbody> : Tag is used to group the body content in an table
-    <td> : Atributte of table. tag defines a standard cell in table
-	<tr> :  Atributte of table.  tag defines a row in table
-	<script> : > tag is used to define a client-side script (JavaScript)
+3) "head" :  The head element is a container for all the head elements.
+	"Title" : Is the title of the document.
+	"meta" : Is the information of de document. description( author, keyword, etc)
+	"body" : tag defines the document body.
+	"link" : it can be used for two things. the defines a link between a document and an external resource or tag is used to link to external style sheets
+	"center" : tag is used to center text
+	"table": Create table can you edit.
+	"tbody" : Tag is used to group the body content in an table
+    	"td" : Atributte of table. tag defines a standard cell in table
+	"tr" :  Atributte of table.  tag defines a row in table
+	"script" : > tag is used to define a client-side script (JavaScript)
 	
 	
 	
